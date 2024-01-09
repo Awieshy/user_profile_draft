@@ -141,7 +141,7 @@ class YourContentWidget extends StatelessWidget {
                           },
                           style: ElevatedButton.styleFrom(
                             padding: EdgeInsets.symmetric(vertical: 15),
-                            primary: Colors.yellow,
+                            primary: Colors.yellowAccent,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(10),
                             ),
